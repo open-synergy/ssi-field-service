@@ -9,3 +9,4 @@ git+https://github.com/open-synergy/ssi-mixin@14.0#subdirectory=setup/ssi_transa
 git+https://github.com/open-synergy/ssi-mixin@14.0#subdirectory=setup/ssi_transaction_open_mixin
 git+https://github.com/open-synergy/ssi-mixin@14.0#subdirectory=setup/ssi_transaction_ready_mixin
 git+https://github.com/open-synergy/ssi-mixin@14.0#subdirectory=setup/ssi_transaction_terminate_mixin
+git+https://github.com/open-synergy/ssi-mixin@14.0#subdirectory=setup/ssi_transaction_partner
