@@ -19,6 +19,7 @@
         "ssi_transaction_cancel_mixin",
         "ssi_transaction_terminate_mixin",
         "ssi_transaction_date_duration_mixin",
+        "ssi_transaction_partner",
         "ssi_localdict_mixin",
         "ssi_frequency",
         "base_automation",
