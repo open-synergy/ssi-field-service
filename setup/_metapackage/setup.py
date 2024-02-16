@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo14-addon-ssi_field_service',
+        'odoo14-addon-ssi_field_service_work_log',
     ],
     classifiers=[
         'Programming Language :: Python',
