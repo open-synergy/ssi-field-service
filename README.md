@@ -19,6 +19,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [ssi_field_service](ssi_field_service/) | 14.0.1.0.0 |  | Field Service
+[ssi_field_service_work_log](ssi_field_service_work_log/) | 14.0.1.0.0 |  | Field Service - Work Log Integration
 
 [//]: # (end addons)
 
